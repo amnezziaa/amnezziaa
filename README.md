@@ -1,6 +1,6 @@
 # Welcome to Amnezzia's userpage ! ☕
 ## My projects :
-Apart from school studies, I am trying to develop stuff during my `Free time` because i believe it's the best way to learn while having fun.
+Apart from school studies, I am trying to develop stuff myself because i think it's the best way to learn while having fun.
 ### ✨ Chocobot 
 > A work in progress [osu](https://osu.ppy.sh/users/12765882/osu) related Discord bot fully developed in `JavaScript`, you can find the repository right under this readme.
 ## Links :
